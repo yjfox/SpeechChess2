@@ -7,7 +7,7 @@ Speech Application- Gomoku
 2. Algorithm:
 * Speech Lib: using Microsoft Speech Lib 5.4, this program may require to use the windows speech assistant, which shows as 
 
-* Gomoku: Storing the chess placement into a two dimensional array (0 means no chess this position, 1 means chess existing this position). So the detection of who is winner will be easy, just to loop the array and find out if there is an unbroken row of five ¡°1¡± horizontally, vertically, or diagonally.
+* Gomoku: Storing the chess placement into a two dimensional array (0 means no chess this position, 1 means chess existing this position). So the detection of who is winner will be easy, just to loop the array and find out if there is an unbroken row of five ï¿½ï¿½1ï¿½ï¿½ horizontally, vertically, or diagonally.
 
 3. Design:
 Images as follow:
